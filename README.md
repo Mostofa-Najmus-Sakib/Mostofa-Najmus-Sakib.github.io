@@ -1,5 +1,11 @@
 # Mostofa Najmus Sakib — personal website
 
+Primary website address: **https://mostofa-najmus-sakib.github.io/**
+
+The portfolio is maintained on `main` in
+`Mostofa-Najmus-Sakib/Mostofa-Najmus-Sakib.github.io`. The repository's older
+`gem`, `master`, and `gh-pages` branches retain their original content and history.
+
 A responsive professional and research portfolio focused on AI, machine learning,
 and computer science. Its full-screen photographic header, circular portrait,
 blue sections, project grid, and alternating timeline follow the visual direction
@@ -12,7 +18,7 @@ Use Node.js 20 or newer; Node.js 24 is used by the deployment workflow. No packa
 installation is necessary.
 
 ```sh
-cd /workspace/Personal_Profile
+cd /workspace/Mostofa-Najmus-Sakib.github.io
 npm run dev -- --host 0.0.0.0 --port 5173
 ```
 
@@ -28,8 +34,9 @@ npm run preview -- --host 0.0.0.0 --port 4173
 ```
 
 The generated `dist/` folder can be deployed to any static host. Asset paths are
-relative, so the website supports both a domain root and a GitHub Pages project
-path. To check a project path locally:
+relative. This repository publishes at the GitHub Pages domain root, so the
+primary preview needs no `--base` option. The server can also verify a project
+path if needed:
 
 ```sh
 npm run preview -- --base /Personal_Profile --port 4173
@@ -77,3 +84,6 @@ the build and deployment source. Push the website files to `main`, then check th
 
 This repository contains deployment configuration; creating these files does
 not itself push or publish the website.
+
+The root address uses GitHub's reserved `<username>.github.io` repository name;
+changing the default branch is not required when Pages uses GitHub Actions.
