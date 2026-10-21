@@ -2,9 +2,11 @@
 
 Primary website address: **https://mostofa-najmus-sakib.github.io/**
 
-The portfolio is maintained on `main` in
-`Mostofa-Najmus-Sakib/Mostofa-Najmus-Sakib.github.io`. The repository's older
-`gem`, `master`, and `gh-pages` branches retain their original content and history.
+The portfolio is maintained on `master` in
+`Mostofa-Najmus-Sakib/Mostofa-Najmus-Sakib.github.io`, matching this repository's
+existing Pages publication policy. The older website is preserved on
+`archive/website-before-migration-1250a90` and in `master`'s commit history.
+The `gem` and `gh-pages` branches retain their original content.
 
 A responsive professional and research portfolio focused on AI, machine learning,
 and computer science. Its full-screen photographic header, circular portrait,
@@ -77,13 +79,13 @@ photographs, biography, affiliations, and project content are not used here.
 
 ## Publish on GitHub Pages
 
-The included workflow builds and deploys pushes to `main`, and can also be run
+The included workflow builds and deploys pushes to `master`, and can also be run
 manually. In the repository's **Settings → Pages**, choose **GitHub Actions** as
-the build and deployment source. Push the website files to `main`, then check the
+the build and deployment source. Push the website files to `master`, then check the
 **Deploy portfolio to GitHub Pages** workflow in Actions.
 
 This repository contains deployment configuration; creating these files does
 not itself push or publish the website.
 
 The root address uses GitHub's reserved `<username>.github.io` repository name;
-changing the default branch is not required when Pages uses GitHub Actions.
+the workflow uses the already permitted `master` publication branch.
