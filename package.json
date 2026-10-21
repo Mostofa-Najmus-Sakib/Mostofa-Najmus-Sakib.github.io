@@ -1,0 +1,18 @@
+{
+  "name": "mostofa-najmus-sakib-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The professional and research portfolio of Mostofa Najmus Sakib.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs --preview",
+    "check": "node --check assets/main.js && node --check scripts/serve.mjs && node --check scripts/static-server.mjs && node --check scripts/build.mjs",
+    "test": "node --test scripts/static-server.test.mjs"
+  }
+}
