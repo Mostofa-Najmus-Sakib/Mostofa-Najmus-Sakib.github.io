@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#EAF1EF"/><stop offset="1" stop-color="#D3E2DF"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#5D8A88" stroke-opacity=".13"/></pattern>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v440H0z"/><path fill="url(#grid)" d="M0 0h720v440H0z"/>
+  <text x="40" y="46" fill="#315D64" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">ENTERPRISE AGENTIC RAG</text>
+  <rect x="80" y="140" width="130" height="173" rx="7" fill="#CBDCDB" stroke="#739B9C" stroke-width="1.5"/>
+  <rect x="92" y="128" width="130" height="173" rx="7" fill="#DEE9E5" stroke="#739B9C" stroke-width="1.5"/>
+  <rect x="104" y="116" width="130" height="173" rx="7" fill="#FFFEF9" stroke="#739B9C" stroke-width="1.5"/>
+  <path d="M126 146h85M126 163h64M126 197h85M126 214h76M126 231h85M126 248h56" stroke="#8FAEAC" stroke-width="5" stroke-linecap="round"/>
+  <path d="M247 220h50m-8-8 8 8-8 8" stroke="#547D81" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="360" cy="220" r="70" stroke="#6B959A" stroke-width="1.5" stroke-dasharray="4 7"/>
+  <circle cx="360" cy="220" r="53" fill="#245E6D"/>
+  <path d="m339 209 21-13 21 13v23l-21 13-21-13v-23Z" stroke="#F1C35F" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m339 209 21 13 21-13m-21 13v23" stroke="#F1C35F" stroke-width="2"/>
+  <circle cx="360" cy="150" r="5" fill="#E4AF47"/><circle cx="421" cy="255" r="5" fill="#E4AF47"/><circle cx="299" cy="255" r="5" fill="#E4AF47"/>
+  <path d="M431 220h48m-8-8 8 8-8 8" stroke="#547D81" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="492" y="122" width="153" height="195" rx="8" fill="#FFFEF9" stroke="#739B9C" stroke-width="1.5"/>
+  <rect x="514" y="145" width="109" height="40" rx="4" fill="#E2ECE8"/>
+  <circle cx="532" cy="165" r="10" fill="#316D70"/>
+  <path d="m527 165 4 4 6-8" stroke="#FFFDF5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M551 165h56M514 210h109M514 227h94M514 244h102M514 278h72" stroke="#91AAA7" stroke-width="5" stroke-linecap="round"/>
+  <text x="168" y="355" fill="#315D64" font-family="Arial,sans-serif" font-size="12" text-anchor="middle" letter-spacing="2">RETRIEVE</text>
+  <text x="360" y="355" fill="#315D64" font-family="Arial,sans-serif" font-size="12" text-anchor="middle" letter-spacing="2">REASON</text>
+  <text x="568" y="355" fill="#315D64" font-family="Arial,sans-serif" font-size="12" text-anchor="middle" letter-spacing="2">RESPOND</text>
+</svg>

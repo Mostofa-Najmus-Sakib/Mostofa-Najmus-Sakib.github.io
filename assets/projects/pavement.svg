@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#294D52"/><stop offset="1" stop-color="#1D383E"/></linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0v22" stroke="#A6B9B6" stroke-opacity=".13"/></pattern>
+    <pattern id="asphalt" width="17" height="19" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1" fill="#94A2A8" opacity=".4"/><circle cx="12" cy="12" r=".8" fill="#94A2A8" opacity=".35"/></pattern>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v440H0z"/><path fill="url(#grid)" d="M0 0h720v440H0z"/>
+  <text x="40" y="46" fill="#D6E4DF" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">COMPUTER VISION FOR INFRASTRUCTURE</text>
+  <path d="M171 440 329 76h172L410 440H171Z" fill="#738582"/>
+  <path d="M190 440 341 76h146L391 440H190Z" fill="#35474F"/>
+  <path d="M190 440 341 76h146L391 440H190Z" fill="url(#asphalt)"/>
+  <path d="m211 440 139-364m35 364 93-364" stroke="#C5C9B9" stroke-width="3"/>
+  <path d="m296 440 114-364" stroke="#E5CF87" stroke-width="3" stroke-dasharray="24 20"/>
+  <path d="m320 181 60 8-24 76-65-9 29-75Z" fill="#F0C663" fill-opacity=".2" stroke="#F0C663" stroke-width="2"/>
+  <path d="m339 278 59 6-25 87-62-7 28-86Z" fill="#86C6D4" fill-opacity=".2" stroke="#86C6D4" stroke-width="2"/>
+  <path d="M321 181h-78l-24-25H96M373 371h75l36-24h143" stroke="#B9D7D1" stroke-width="1.5"/>
+  <circle cx="321" cy="181" r="4" fill="#F0C663"/><circle cx="373" cy="371" r="4" fill="#86C6D4"/>
+  <rect x="79" y="104" width="150" height="60" rx="4" fill="#F3F5EC"/>
+  <path d="M95 122h112M95 136h84M95 150h99" stroke="#9CAFA6" stroke-width="4" stroke-linecap="round"/>
+  <rect x="496" y="277" width="145" height="64" rx="4" fill="#F3F5EC"/>
+  <rect x="511" y="292" width="27" height="33" rx="2" fill="#9BB9AE"/>
+  <path d="M550 299h73M550 312h55M550 325h65" stroke="#9CAFA6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M70 231v-33h33M650 119V86h-33M70 370v33h33M650 370v33h-33" stroke="#AEC9C4" stroke-width="1.5"/>
+</svg>

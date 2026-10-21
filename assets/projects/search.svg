@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#F0EADC"/><stop offset="1" stop-color="#E5DECF"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#9B8A6D" opacity=".18"/></pattern>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v440H0z"/><path fill="url(#dots)" d="M0 0h720v440H0z"/>
+  <rect x="99" y="67" width="532" height="322" rx="9" fill="#8D8C7E" fill-opacity=".15"/>
+  <rect x="91" y="59" width="532" height="322" rx="9" fill="#FFFDF7" stroke="#C2BDAF" stroke-width="1.5"/>
+  <path d="M100 59h514a9 9 0 0 1 9 9v28H91V68a9 9 0 0 1 9-9Z" fill="#29465C"/>
+  <circle cx="111" cy="78" r="4" fill="#C3D3D9"/><circle cx="126" cy="78" r="4" fill="#C3D3D9"/><circle cx="141" cy="78" r="4" fill="#C3D3D9"/>
+  <rect x="179" y="71" width="341" height="13" rx="3" fill="#477087"/>
+  <rect x="127" y="124" width="460" height="46" rx="23" fill="#F4F2EB" stroke="#C3C9C6" stroke-width="1.5"/>
+  <circle cx="151" cy="145" r="8" stroke="#567789" stroke-width="2"/><path d="m157 151 7 7" stroke="#567789" stroke-width="2" stroke-linecap="round"/>
+  <path d="M181 147h141" stroke="#A1B4B7" stroke-width="5" stroke-linecap="round"/>
+  <rect x="527" y="131" width="52" height="32" rx="16" fill="#D8AD5A"/>
+  <path d="M546 147h14m-5-5 5 5-5 5" stroke="#FFFDF7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="142" cy="210" r="11" fill="#DBE7E7"/><path d="M165 207h194" stroke="#487D9C" stroke-width="6" stroke-linecap="round"/>
+  <path d="M165 224h359M165 237h290" stroke="#A9B9BA" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="142" cy="269" r="11" fill="#DBE7E7"/><path d="M165 266h232" stroke="#487D9C" stroke-width="6" stroke-linecap="round"/>
+  <path d="M165 283h332M165 296h359" stroke="#A9B9BA" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="142" cy="328" r="11" fill="#DBE7E7"/><path d="M165 325h173" stroke="#487D9C" stroke-width="6" stroke-linecap="round"/>
+  <path d="M165 342h359M165 355h254" stroke="#A9B9BA" stroke-width="4" stroke-linecap="round"/>
+  <text x="360" y="416" fill="#5B6D72" font-family="Arial,sans-serif" font-size="11" text-anchor="middle" letter-spacing="3">RETRIEVAL · RANKING · DISCOVERY</text>
+</svg>

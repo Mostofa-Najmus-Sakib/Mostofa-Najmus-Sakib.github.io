@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#294E75"/><stop offset="1" stop-color="#18354F"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#D9E8F1" opacity=".1"/></pattern>
+    <g id="person"><circle cy="-10" r="8" fill="#C4DAE7"/><path d="M-15 14a15 15 0 0 1 30 0v3h-30v-3Z" fill="#C4DAE7"/></g>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v440H0z"/><path fill="url(#dots)" d="M0 0h720v440H0z"/>
+  <text x="40" y="46" fill="#D2E1EA" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">HUMAN-CENTERED CREDIBILITY</text>
+  <g stroke="#7BACC8" stroke-opacity=".65" stroke-width="1.5"><path d="m360 218-151-94M360 218l-178 49M360 218l-38 118M360 218l139 102M360 218l191-59M360 218l64-113"/><path d="m209 124-27 143 140 69 177-16 52-161-127-54-215 19Z" stroke-dasharray="4 6"/></g>
+  <circle cx="209" cy="124" r="34" fill="#345F7C" stroke="#96BBD2"/><use href="#person" x="209" y="124"/>
+  <circle cx="182" cy="267" r="34" fill="#345F7C" stroke="#96BBD2"/><use href="#person" x="182" y="267"/>
+  <circle cx="322" cy="336" r="30" fill="#345F7C" stroke="#96BBD2"/><use href="#person" x="322" y="336"/>
+  <circle cx="499" cy="320" r="34" fill="#345F7C" stroke="#96BBD2"/><use href="#person" x="499" y="320"/>
+  <circle cx="551" cy="159" r="34" fill="#345F7C" stroke="#96BBD2"/><use href="#person" x="551" y="159"/>
+  <circle cx="424" cy="105" r="27" fill="#345F7C" stroke="#96BBD2"/><use href="#person" x="424" y="105" transform="translate(85 21) scale(.8)"/>
+  <circle cx="360" cy="218" r="73" fill="#244766" stroke="#F3C35D" stroke-width="1.5"/>
+  <rect x="322" y="168" width="76" height="99" rx="5" fill="#F6F5ED"/>
+  <rect x="334" y="181" width="52" height="24" rx="2" fill="#A8C1CF"/>
+  <path d="M334 218h52M334 231h44M334 244h49" stroke="#7899AD" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="395" cy="257" r="15" fill="#F3C35D"/>
+  <path d="m389 257 4 4 8-9" stroke="#244766" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="360" y="400" fill="#D2E1EA" font-family="Arial,sans-serif" font-size="12" text-anchor="middle" letter-spacing="3">PEOPLE · NEWS · GRAPH LEARNING</text>
+</svg>

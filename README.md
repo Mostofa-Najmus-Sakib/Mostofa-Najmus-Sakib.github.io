@@ -1,7 +1,9 @@
 # Mostofa Najmus Sakib — personal website
 
 A responsive professional and research portfolio focused on AI, machine learning,
-and computer science. Built with semantic HTML, CSS, and JavaScript. There are no
+and computer science. Its full-screen photographic header, circular portrait,
+blue sections, project grid, and alternating timeline follow the visual direction
+of Eric Wadkins's classic portfolio. Built with semantic HTML, CSS, and JavaScript. There are no
 runtime dependencies, external APIs, or required secrets.
 
 ## Develop locally
@@ -56,8 +58,15 @@ Scholar PDF and verified public research repositories. Research artifacts and
 datasets are labeled separately from runnable software; industry projects do
 not imply public access to internal code.
 
-DM Sans and Instrument Serif are self-hosted, with their SIL Open Font License
+Montserrat and Source Sans Pro are self-hosted, with their SIL Open Font License
 files in `assets/fonts/`. Visitors do not need to contact a font or image CDN.
+
+The riverside hero background is original generated decorative artwork inspired
+by the Boise area, not a documentary photograph. The project thumbnails are
+original SVG illustrations, not screenshots of proprietary applications or
+measured model outputs. The design reference was inspected through its public
+source at `ewadkins/ericwadkins.com` and a public theme screenshot; Eric Wadkins's
+photographs, biography, affiliations, and project content are not used here.
 
 ## Publish on GitHub Pages
 
