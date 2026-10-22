@@ -70,6 +70,10 @@ not imply public access to internal code.
 Montserrat and Source Sans Pro are self-hosted, with their SIL Open Font License
 files in `assets/fonts/`. Visitors do not need to contact a font or image CDN.
 
+Organization marks are stored locally in `assets/logos/`. Their source URLs and
+provenance are documented in `assets/logos/SOURCES.md`. The site uses the current
+National Laboratory of the Rockies (NLR) name and official laboratory wordmark.
+
 The riverside hero background is original generated decorative artwork inspired
 by the Boise area, not a documentary photograph. The project thumbnails are
 original SVG illustrations, not screenshots of proprietary applications or
